@@ -1,0 +1,11 @@
+### https://raw.github.com/github/gitignore/2aa0d6625acc0e809c30be8845bc27f68e4f8602/Scheme.gitignore
+
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+
