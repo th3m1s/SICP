@@ -4,6 +4,7 @@
 
 (test 0 (p))
 ;; infinite loop
+;; because of normal order evaluation
 
 
 
